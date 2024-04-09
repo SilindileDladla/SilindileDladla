@@ -1,3 +1,4 @@
+![Data analyst](https://media.licdn.com/dms/image/D4D03AQHxN9ALogKQGg/profile-displayphoto-shrink_100_100/0/1686229232191?e=1718236800&v=beta&t=rKfSvCpHPLVOXZAOEOnArT7CSpJtwJcLpfv0nZ_Nisg)
 ### Hi there 👋, Silindile Dladla
 #### Data analyst
 ![Data analyst](https://media.licdn.com/dms/image/D4D03AQHxN9ALogKQGg/profile-displayphoto-shrink_100_100/0/1686229232191?e=1718236800&v=beta&t=rKfSvCpHPLVOXZAOEOnArT7CSpJtwJcLpfv0nZ_Nisg)
