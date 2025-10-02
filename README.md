@@ -19,7 +19,7 @@ ESG Metrics, Sustainability Reporting, Data Integrity, Data Ethics
 
 ### Featured Projects
 
-#### [South African Energy Generation Dashboard] (https://github.com/SilindileDladla/South-African-Energy-Generation-Dashboard)
+#### [South African Energy Generation Dashboard](https://github.com/SilindileDladla/South-African-Energy-Generation-Dashboard)
 Interactive Power BI dashboard analyzing South Africa's electricity generation and renewable energy transition (2000-2024)
 - **Technologies:** Power BI, DAX, Power Query, Data Visualization
 - **Key Insights:** Coal dominance trends, renewable energy growth, demand analysis
