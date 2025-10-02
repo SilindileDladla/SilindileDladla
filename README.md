@@ -24,7 +24,7 @@ Interactive Power BI dashboard analyzing South Africa's electricity generation a
 - **Technologies:** Power BI, DAX, Power Query, Data Visualization
 - **Key Insights:** Coal dominance trends, renewable energy growth, demand analysis
 
-#### [Savanna Biome Vegetation Analysis](https://github.com/SilindileDladla/vegetation-analysis)
+#### [Savanna Biome Vegetation Analysis](https://github.com/SilindileDladla/Savanna-biome-vegetation)
 Statistical analysis of vegetation dynamics using R programming
 - **Technologies:** R, Statistical Analysis, Data Visualization
 - **Methods:** Hypothesis testing, data manipulation, ecological modeling
